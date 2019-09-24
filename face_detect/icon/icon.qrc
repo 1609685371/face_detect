@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>tips.jpg</file>
+    <file>title.jpg</file>
+    <file>签到.jpeg</file>
+  </qresource>
+</RCC>
